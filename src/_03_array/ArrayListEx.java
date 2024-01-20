@@ -1,4 +1,4 @@
-package _03_array;
+package src._03_array;
 
 // Collection Framework
 // : 객체를 효율적으로 추가, 삭제, 검색할 수 있도록 관련 인터페이스 & 클래스를 java.util 에 포함 시켜 놓음
@@ -86,7 +86,7 @@ public class ArrayListEx {
         students.add(new Student("Lily", 13));
         students.add(new Student("Lisa", 21));
 
-        System.out.println("students : " + students); // [_03_array.Student@5fd0d5ae, _03_array.Student@2d98a335, _03_array.Student@16b98e56, _03_array.Student@7ef20235, _03_array.Student@27d6c5e0]
+        System.out.println("students : " + students); // [src._03_array.Student@5fd0d5ae, src._03_array.Student@2d98a335, src._03_array.Student@16b98e56, src._03_array.Student@7ef20235, src._03_array.Student@27d6c5e0]
         System.out.println("학생 수 : " + students.size());
 
         Student std = students.get(0); // 0번 학생 확인

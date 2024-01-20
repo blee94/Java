@@ -1,4 +1,4 @@
-//package _04_exception;
+//package src._04_exception;
 //
 //import java.util.ArrayList;
 //import java.util.InputMismatchException;

@@ -1,4 +1,4 @@
-package _04_exception;
+package src._04_exception;
 
 // 예외
 // - 일반 예외 (Exception) : 컴파일러가 예외 처리 코드 여부를 검사하는 예외
@@ -46,8 +46,8 @@ public class ExceptionEx {
             // 방법 3: 예외가 어디서 발생했는지 추적한 내용 출력
             // e.printStackTrace();
 //            java.lang.ArithmeticException: / by zero
-//            at _04_exception.ExceptionEx.divide(ExceptionEx.java:17)
-//            at _04_exception.ExceptionEx.main(ExceptionEx.java:34)
+//            at src._04_exception.ExceptionEx.divide(ExceptionEx.java:17)
+//            at src._04_exception.ExceptionEx.main(ExceptionEx.java:34)
         } finally {
             System.out.println("*** 연산 종료!");
         }

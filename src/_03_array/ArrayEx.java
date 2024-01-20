@@ -1,4 +1,4 @@
-package _03_array;
+package src._03_array;
 
 // 표준 배열
 

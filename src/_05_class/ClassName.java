@@ -1,4 +1,4 @@
-package _05_class;
+package src._05_class;
 
 public class ClassName {
 //    필드 (변수)

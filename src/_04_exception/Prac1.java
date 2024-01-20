@@ -1,4 +1,4 @@
-package _04_exception;
+package src._04_exception;
 
 public class Prac1 {
     public static void main(String[] args) {

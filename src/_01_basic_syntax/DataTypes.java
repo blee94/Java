@@ -1,4 +1,4 @@
-package _01_basic_syntax;
+package src._01_basic_syntax;
 
 // Primitive Type (기본형)
 // - 사용되기 전에 선언되어야 함
